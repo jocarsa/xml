@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contactos>
+    <contacto dni="123456">
+        <nombre>Jose Vicente</nombre>
+        <telefono>5632354</telefono>
+        <email>info@josevicentecarratala.com</email>
+    </contacto>
+    <contacto dni="65464">
+        <nombre>Juan</nombre>
+        <telefono>345646</telefono>
+        <email>juan@josevicentecarratala.com</email>
+    </contacto>
+</contactos>
